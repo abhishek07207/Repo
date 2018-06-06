@@ -1,0 +1,33 @@
+EAP Admin:
+
+admin
+admin_1234
+
+
+BPM Suit :
+bpmsAdmin
+admin_1234
+
+
+vault eystore Password
+admin_1234
+
+SSL Password: admin_1234
+
+
+"failure-description" => "JBAS014749: Operation handler failed: java.lang.RuntimeException: JBAS015804: Error initializing vault --  org.jboss.as.server.services.security.VaultReaderException: JBAS013313: Vault Reader Exception:",
+    "rolled-back" => true,
+    "command" => undefined
+	
+	JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
+	
+	export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+	
+	anupfeb1976@gmail.com
+	anup1976@
+	
+	
+	9044637135
+	
+	
+	
